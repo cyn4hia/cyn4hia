@@ -2,10 +2,9 @@
 <p align = "center">
   <img src="chibi-porcelain-lux.png" alt="Description" width="150" height="200" >
 </p>
-<p align = "center">
-  <h3 align="left">Connect with me (˶˃ ᵕ ˂˶):</h3>
-</p>
+
+<h3 align="center">Connect with me (˶˃ ᵕ ˂˶):</h3>
 
 <p align="center">
-  <a href="https://discordapp.com/users/804359414982901800" target="blank"><img align="center" src="discordpng.webp" alt="perceiving" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/804359414982901800" target="blank"><img align="center" src="discordpng.webp" alt="perceiving" height="30" width="30" /></a>
 </p>
