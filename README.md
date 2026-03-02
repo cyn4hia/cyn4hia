@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/tft-profile-card/main/tft-stats.svg" alt="TFT Stats" />
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/tft-profile-card/main/tft-cosmetics.svg" alt="TFT Cosmetics" />
+  <img src="https://raw.githubusercontent.com/cyn4hia/tft-profile-card/main/tft-stats.svg" alt="TFT Stats" />
+  <img src="https://raw.githubusercontent.com/cyn4hia/tft-profile-card/main/tft-cosmetics.svg" alt="TFT Cosmetics" />
 </p>
 <p align = "center"> Here are my TFT stats ^^ (match history card made by meeee)</p>
 <h3 align="center">Connect with me (˶˃ ᵕ ˂˶):</h3>
