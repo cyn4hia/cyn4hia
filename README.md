@@ -11,5 +11,5 @@
 <h3 align="center">Connect with me (˶˃ ᵕ ˂˶):</h3>
 
 <p align="center">
-  <a href="https://discordapp.com/users/804359414982901800" target="blank"><img align="center" src="discordpng.webp" alt="perceiving" height="30" width="30" /></a>
+  <a href="https://discordapp.com/users/804359414982901800" target="blank"><img align="center" src="discordpng.webp" alt="perceiving" height="60" width="60" /></a>
 </p>
