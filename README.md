@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/cyn4hia/tft-profile-card/main/tft-stats.svg" alt="TFT Stats" />
 </p>
-
+<p> Here are my TFT stats ^^ (match history card made by meeee)</p>
 <h3 align="center">Connect with me (˶˃ ᵕ ˂˶):</h3>
 
 <p align="center">
