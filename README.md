@@ -1,4 +1,5 @@
-## Hi I like green grapes a lot and I like playing tft while coding 
+
+<h1 align = "center"> Hi I like green grapes a lot and I like playing tft while coding </h1>
 <p align = "center">
   <img src="chibi-porcelain-lux.png" alt="Description" width="150" height="200" >
 </p>
