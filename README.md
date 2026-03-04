@@ -7,10 +7,10 @@
 </p>
 <p align = "center"> Here are my TFT stats ^^ (made by me)</p>
 
+<h3 align="center">Personal Website WIP:</h3>
 <p align="center">
-  <a href="https://cyn4hia.github.io/cyn.github.io/" target="blank"><img align="center" src="greengrape.png" alt="cyn web" height="100" width="150" /></a>
+  <a href="https://cyn4hia.github.io/cyn.github.io/" target="blank"><img align="center" src="greengrape.png" alt="cyn web" height="100" width="120" /></a>
 </p>
-<p align = "center"> my personal web wip (green grape theme)</p>
 
 <h3 align="center">Connect with me (˶˃ ᵕ ˂˶):</h3>
 <p align="center">
