@@ -9,7 +9,7 @@
 <h3 align="center">Connect with me (˶˃ ᵕ ˂˶):</h3>
 
 <p align = "center">
-  <a href="https://cyn4hia.github.io/cyn.github.io/" target="blank"><img align="center" src="greengrape.png" alt="cyn webbb" height="60" width="60" /><p> personal web (wip) </p> </a>
+  <a href="https://cyn4hia.github.io/cyn.github.io/" target="blank"><img align="center" src="chibi-poreclain-lux.png" alt="cyn webbb" height="100" width="150" /><p> personal web (wip) </p> </a>
 </p>
 
 
