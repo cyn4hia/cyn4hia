@@ -8,6 +8,12 @@
 <p align = "center"> Here are my TFT stats ^^ (made by me)</p>
 <h3 align="center">Connect with me (˶˃ ᵕ ˂˶):</h3>
 
+<p>
+  <a href="https://cyn4hia.github.io/cyn.github.io/" target="blank"><img align="center" src="greengrape.png" alt="cyn webbb" height="60" width="60" /></a>
+  <p> <- personal web (wip) </p>
+</p>
+
+
 <p align="center">
   <a href="https://discordapp.com/users/804359414982901800" target="blank"><img align="center" src="discordpng.webp" alt="perceiving" height="60" width="60" /></a>
   <a href="https://www.linkedin.com/in/cindy-zhou4/" target="blank"><img align="center" src="linkedinpng.webp" alt="cindy-zhou-4" height="60" width="60" /></a>
