@@ -7,9 +7,8 @@
 </p>
 <p align = "center"> Here are my TFT stats ^^ (made by me)</p>
 
-<h3 align="center">Personal Website WIP:</h3>
 <p align="center">
-  <a href="https://cyn4hia.github.io/cyn.github.io/" target="blank"><img align="center" src="personal-web-label.png" alt="cyn web" height="600" width="620" /></a>
+  <a href="https://cyn4hia.github.io/cyn.github.io/" target="blank"><img align="center" src="personal-web-label.png" alt="cyn web" height="500" width="520" /></a>
 </p>
 
 <h3 align="center">Connect with me (˶˃ ᵕ ˂˶):</h3>
