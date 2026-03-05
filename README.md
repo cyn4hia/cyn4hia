@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/cyn4hia/tft-profile-card/main/tft-stats.svg" alt="TFT Stats" />
   <img src="https://raw.githubusercontent.com/cyn4hia/tft-profile-card/main/tft-cosmetics.svg" alt="TFT Cosmetics" />
 </p>
-<p align = "center"> Here are my TFT stats ^^ (made by me)</p>
+<p align = "center"> My TFT stats ^^ (made & designed by me)</p>
 
 <p align="center">
   <a href="https://cyn4hia.github.io/cyn.github.io/" target="blank"><img align="center" src="personal-web-label.png" alt="cyn web" height="500" width="520" /></a>
