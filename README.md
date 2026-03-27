@@ -9,7 +9,7 @@
 
 <h3 align="center">Visit my Personal Website:</h3>
 <p align="center">
-  <a href="https://cyn4hia.github.io/" target="blank"><img align="center" src="chibi-porcelain-lux.png" alt="cyn web" height="500" width="520" /></a>
+  <a href="https://cyn4hia.github.io/" target="blank"><img align="center" src="chibi-porcelain-lux.png" alt="cyn web" height="350" width="350" /></a>
 </p>
 
 <h3 align="center">Connect with me (˶˃ ᵕ ˂˶):</h3>
