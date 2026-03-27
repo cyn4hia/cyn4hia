@@ -1,5 +1,5 @@
 
-<h1 align = "center"> Hi I like eating grapes and playing tft while coding</h1>
+<h1 align = "center"> Hi I like eating green grapes & playing tft while coding</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cyn4hia/tft-profile-card/main/tft-stats.svg" alt="TFT Stats" />
