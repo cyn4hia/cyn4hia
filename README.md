@@ -1,8 +1,8 @@
 
-<img src="portrait-crop.png" align="left" width="500" height="600">
+<img src="portrait2.png" align="left" width="400" height="500">
 
-<b>Cindy</b><br>
-<sub>2nd year Computer Science and Economics Major</sub>
+<h3>Cindy</h3><br>
+<p>2nd year Computer Science and Economics Major</p>
 <br clear="left">
 
 <p align="center">
