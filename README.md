@@ -1,16 +1,11 @@
 
 <h1 align = "center"> Hi I like eating green grapes & playing tft while coding</h1>
 
-<table>
-<tr>
-<td><img src="portrait.png" width="100"></td>
-<td>
-<b>Cindy</b><br>
-<sub>CS ECON @ Northeastern</sub>
-<sub>Computer Vision & Design</sub>
-</td>
-</tr>
-</table>
+<img src="portrait.png" align="left" width="120">
+
+Computer Vision & Design
+
+<br clear="left">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cyn4hia/tft-profile-card/main/tft-stats.svg" alt="TFT Stats" />
