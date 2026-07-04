@@ -1,15 +1,13 @@
 
-<img src="portrait2.png" align="left" width="400" height="500">
+<img src="portrait2.png" align="left" width="300">
 
-<h3>Cindy</h3><br>
-<p>2nd year Computer Science and Economics Major</p>
+<h2>Cindy</h2>
+
+2nd year Computer Science & Economics Major<br>
+<sub>Computer Vision & Design</sub>
+
 <br clear="left">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cyn4hia/tft-profile-card/main/tft-stats.svg" alt="TFT Stats" />
-  <img src="https://raw.githubusercontent.com/cyn4hia/tft-profile-card/main/tft-cosmetics.svg" alt="TFT Cosmetics" />
-</p>
-<p align = "center"> My TFT stats ^^ (made & designed by me)</p>
+<br>
 
 <h3 align="center">Visit my Personal Website:</h3>
 <p align="center">
