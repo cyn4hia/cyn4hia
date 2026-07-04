@@ -1,9 +1,8 @@
 
-<h1 align = "center"> Hi I like eating green grapes & playing tft while coding</h1>
+<img src="portrait.png" align="left" width="250" height="300">
 
-<img src="portrait.png" align="left" width="120">
-
-Computer Vision & Design
+Cindy
+Computer Vision and Design
 
 <br clear="left">
 
