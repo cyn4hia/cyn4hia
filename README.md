@@ -1,9 +1,8 @@
 
-<img src="portrait.png" align="left" width="250" height="300">
+<img src="portrait.png" align="left" width="500" height="600">
 
-Cindy
-Computer Vision and Design
-
+<b>Cindy</b><br>
+<sub>2nd year Computer Science and Economics Major</sub>
 <br clear="left">
 
 <p align="center">
