@@ -1,4 +1,3 @@
-
 <img src="portrait2.png" align="left" width="300">
 
 <h2>Cindy</h2>
