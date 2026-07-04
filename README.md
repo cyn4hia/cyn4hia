@@ -2,7 +2,7 @@
 
 <img src="portrait2.png" align="left" width="300">
 
-<h2>Cindy</h2>
+<h3>Cindy</h3>
 
 2nd year Computer Science & Economics Major<br>
 <sub>Computer Vision & Design</sub>
