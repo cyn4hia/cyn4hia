@@ -1,11 +1,13 @@
 <h1>green grape fangirl!</h1>
 
-<img src="clawd-matcha-pour.gif" align="left" width="350" >
+<img src="clawd-matcha-pour.gif" align="left" width="350">
 
-<h3>Cindy</h3>
+<h3>Hi I'm Cindy</h3>
 
 2nd year Computer Science & Economics Major<br>
-<sub>Computer Vision & Design</sub>
+<sub><i>Computer Vision</i> & Design</sub>
+<br>
+<sub>Drinking matcha is my hobby!!</sub>
 
 <h3>Connect with me (˶˃ ᵕ ˂˶):</h3>
 <p>
