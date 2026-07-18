@@ -1,6 +1,6 @@
 <h1>green grape fangirl!</h1>
 
-<img src="clawd-matcha-pour.gif" align="left" width="400" height = "400">
+<img src="clawd-matcha-pour.gif" align="left" width="350" >
 
 <h3>Cindy</h3>
 
