@@ -4,8 +4,7 @@
 
 <h3>Hi I'm Cindy</h3>
 
-2nd year Computer Science & Economics Major<br>
-<sub><i>Computer Vision</i> & Design</sub>
+<i>Computer Vision</i> & Design
 <br>
 <sub>Drinking matcha is my hobby!!</sub>
 
