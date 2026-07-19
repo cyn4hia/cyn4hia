@@ -14,13 +14,12 @@
   <a href="https://www.linkedin.com/in/cindy-zhou4/" target="blank"><img align="center" src="linkedinpng.webp" alt="cindy-zhou-4" height="60" width="60" /></a>
 </p>
 
-<br clear="left">
+<img src="camera-flash.gif" align="right" height="220">
 
+<br>
 <h3>Currently exploring</h3>
 The realm of Human-AI Interaction
 <br>
 <sub>Segmentation + zero-shot annotation models</sub>
-
-<img src="camera-flash.gif" align="right" height="220">
 
 <br clear="left">
