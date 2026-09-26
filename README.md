@@ -1,7 +1,7 @@
 <h1>Hello I'm Cindy</h1>
 <br>
 
-<img src="clawd-matcha-pour.gif" align="left" height="220">
+<img src="clawd-matcha.gif" align="left" height="220">
 
 <h3>Student @ Northeastern University</h3>
 <i>Computer Vision</i> & Design
