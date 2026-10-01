@@ -4,9 +4,10 @@
 <img src="clawd-matcha.gif" align="left" height="220">
 
 <h3>Student @ Northeastern University</h3>
-<i>Computer Vision</i> & Design
+<i>Artificial Intelligence</i> & Design
 <br>
 <sub>I'm extremely passionate about making matcha</sub>
+<sub>& I'm Clawd's number 1 fan!</sub>
 
 <h3>Connect with me (˶˃ ᵕ ˂˶):</h3>
 <p>
